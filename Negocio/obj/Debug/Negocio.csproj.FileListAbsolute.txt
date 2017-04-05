@@ -268,3 +268,21 @@ D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Negocio\obj\Debug\N
 D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
 D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Negocio\obj\Debug\Negocio.dll
 D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Negocio\obj\Debug\Negocio.pdb
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Negocio.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Datos.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\office.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Datos.pdb
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\office.xml
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Negocio.dll
+C:\Users\rbarrios\Desktop\MISAP\IMECON_MISAP\Negocio\obj\Debug\Negocio.pdb
