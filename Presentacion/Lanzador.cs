@@ -78,7 +78,7 @@ namespace MISAP
 
         private void button10_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("prueba");
+            MessageBox.Show("prueba prueba");
         }
     
         
