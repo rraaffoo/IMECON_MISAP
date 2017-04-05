@@ -1,0 +1,7 @@
+D:\MCOP_\MCOP\Negocio\bin\Release\Negocio.dll
+D:\MCOP_\MCOP\Negocio\bin\Release\Negocio.pdb
+D:\MCOP_\MCOP\Negocio\bin\Release\Datos.dll
+D:\MCOP_\MCOP\Negocio\bin\Release\Datos.pdb
+D:\MCOP_\MCOP\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP_\MCOP\Negocio\obj\Release\Negocio.dll
+D:\MCOP_\MCOP\Negocio\obj\Release\Negocio.pdb

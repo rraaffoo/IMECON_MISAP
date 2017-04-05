@@ -1,0 +1,117 @@
+D:\MCOP_\MCOP\MCOP\bin\Debug\MCOP.exe.config
+D:\MCOP_\MCOP\MCOP\bin\Debug\MCOP.exe.manifest
+D:\MCOP_\MCOP\MCOP\bin\Debug\MCOP.application
+D:\MCOP_\MCOP\MCOP\bin\Debug\MCOP.pdb
+D:\MCOP_\MCOP\MCOP\bin\Debug\Negocio.dll
+D:\MCOP_\MCOP\MCOP\bin\Debug\Datos.dll
+D:\MCOP_\MCOP\MCOP\bin\Debug\Negocio.pdb
+D:\MCOP_\MCOP\MCOP\bin\Debug\Datos.pdb
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmDespacho.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmEspere.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmGranallado.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmPintura.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.MotivoNC.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.Login.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmMaestro.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.Menu.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.Properties.Resources.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.QA_QC.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.TEST.resources
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.exe.manifest
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.application
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.exe
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.pdb
+D:\MCOP_\MCOP\MCOP\obj\Debug\MCOP.TrustInfo.xml
+D:\MCOP_\MCOP\bin\Debug\MCOP.exe.config
+D:\MCOP_\MCOP\bin\Debug\MCOP.exe.manifest
+D:\MCOP_\MCOP\bin\Debug\MCOP.application
+D:\MCOP_\MCOP\bin\Debug\MCOP.pdb
+D:\MCOP_\MCOP\bin\Debug\IrisSkin2.dll
+D:\MCOP_\MCOP\bin\Debug\Negocio.dll
+D:\MCOP_\MCOP\bin\Debug\Datos.dll
+D:\MCOP_\MCOP\bin\Debug\Negocio.pdb
+D:\MCOP_\MCOP\bin\Debug\Datos.pdb
+D:\MCOP_\MCOP\obj\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmBuscar.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmDespacho.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmEspere.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmGranallado.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmPintura.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.MotivoNC.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.Login.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmMaestro.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.Menu.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.Properties.Resources.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.QA_QC.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.TEST.resources
+D:\MCOP_\MCOP\obj\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP_\MCOP\obj\Debug\MCOP.TrustInfo.xml
+D:\MCOP_\MCOP\obj\Debug\MCOP.exe.manifest
+D:\MCOP_\MCOP\obj\Debug\MCOP.application
+D:\MCOP_\MCOP\obj\Debug\MCOP.exe
+D:\MCOP_\MCOP\obj\Debug\MCOP.pdb
+D:\MCOP_\MCOP\bin\Debug\MCOP.exe
+\\10.0.0.8\gsistemas\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\Debug\MCOP.exe.config
+\\10.0.0.8\gsistemas\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.exe
+\\10.0.0.8\gsistemas\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\MCOP.exe.config
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.csproj.ResolveComReference.cache
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.exe
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\MCOP.application
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\MCOP.exe
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Datos.dll
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Negocio.dll
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\office.dll
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\office.xml
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER\MCOP\bin\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.FrmInformeComponentesAvance.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.FrmMCodigoCosto.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.FrmMenuFlotante.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.FrmMUsuario.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.Login.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.FrmMenu.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.Properties.Resources.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.TEST.resources
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.TrustInfo.xml
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER\MCOP\obj\Debug\MCOP.application

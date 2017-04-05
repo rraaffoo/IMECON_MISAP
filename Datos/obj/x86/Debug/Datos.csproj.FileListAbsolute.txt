@@ -1,0 +1,53 @@
+D:\MCOP_\Datos\bin\x86\Debug\Datos.dll
+D:\MCOP_\Datos\bin\x86\Debug\Datos.pdb
+D:\MCOP_\Datos\obj\x86\Debug\Datos.dll
+D:\MCOP_\Datos\obj\x86\Debug\Datos.pdb
+D:\MCOP_Pruebas\Datos\bin\x86\Debug\Datos.dll
+D:\MCOP_Pruebas\Datos\bin\x86\Debug\Datos.pdb
+D:\MCOP_Pruebas\Datos\obj\x86\Debug\Datos.dll
+D:\MCOP_Pruebas\Datos\obj\x86\Debug\Datos.pdb
+D:\MCOP_Pruebas\Datos\obj\x86\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MCOP_Pruebas\Datos\bin\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP_Pruebas\Datos\bin\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP_Pruebas\Datos\obj\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP_Pruebas\Datos\obj\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP\Datos\bin\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP\Datos\bin\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP\Datos\obj\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP\Datos\obj\x86\Debug\Datos.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Datos\bin\x86\Debug\Datos.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Datos\bin\x86\Debug\Datos.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Datos\obj\x86\Debug\Datos.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Datos\obj\x86\Debug\Datos.pdb
+D:\MCOP\Datos\bin\x86\Debug\Datos.dll
+D:\MCOP\Datos\bin\x86\Debug\Datos.pdb
+D:\MCOP\Datos\obj\x86\Debug\Datos.dll
+D:\MCOP\Datos\obj\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Datos\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Datos\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Datos\obj\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Datos\obj\x86\Debug\Datos.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Datos\bin\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Datos\obj\x86\Debug\Datos.pdb

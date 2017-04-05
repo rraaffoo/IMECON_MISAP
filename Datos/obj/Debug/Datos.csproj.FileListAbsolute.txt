@@ -1,0 +1,82 @@
+D:\MCOP_\MCOP\Datos\bin\Debug\Datos.dll
+D:\MCOP_\MCOP\Datos\bin\Debug\Datos.pdb
+D:\MCOP_\MCOP\Datos\obj\Debug\Datos.dll
+D:\MCOP_\MCOP\Datos\obj\Debug\Datos.pdb
+D:\MCOP_\MCOP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\MCOP_\Datos\bin\Debug\Datos.dll
+D:\MCOP_\Datos\bin\Debug\Datos.pdb
+D:\MCOP_\Datos\obj\Debug\Datos.dll
+D:\MCOP_\Datos\obj\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\Datos\bin\Debug\Datos.dll
+D:\MCOP - SQLSERVER\Datos\bin\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\Datos\obj\Debug\Datos.dll
+D:\MCOP - SQLSERVER\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Datos\obj\Debug\Datos.pdb
+D:\DESARROLLO\MISAP\MISAP\Datos\bin\Debug\Datos.dll
+D:\DESARROLLO\MISAP\MISAP\Datos\bin\Debug\Datos.pdb
+D:\DESARROLLO\MISAP\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MISAP\MISAP\Datos\obj\Debug\Datos.dll
+D:\DESARROLLO\MISAP\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.pdb
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.pdb
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.dll
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.pdb
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.dll
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.pdb
+D:\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.dll
+D:\MISAP - SAP\MISAP\Datos\bin\Debug\Datos.pdb
+D:\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.dll
+D:\MISAP - SAP\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\obj\Debug\Datos.pdb
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\bin\Debug\Datos.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\bin\Debug\Datos.pdb
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\obj\Debug\Datos.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Datos\obj\Debug\Datos.pdb
+D:\MISAP\Datos\bin\Debug\Datos.dll
+D:\MISAP\Datos\bin\Debug\Datos.pdb
+D:\MISAP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\MISAP\Datos\obj\Debug\Datos.dll
+D:\MISAP\Datos\obj\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Datos\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Datos\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Datos\obj\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Datos\obj\Debug\Datos.pdb
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Datos\bin\Debug\Datos.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Datos\bin\Debug\Datos.pdb
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Datos\obj\Debug\Datos.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,889 @@
+D:\MCOP_\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP_\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\MCOP_\MCOP\bin\x86\Debug\MCOP.application
+D:\MCOP_\MCOP\bin\x86\Debug\MCOP.pdb
+D:\MCOP_\MCOP\bin\x86\Debug\IrisSkin2.dll
+D:\MCOP_\MCOP\bin\x86\Debug\Negocio.dll
+D:\MCOP_\MCOP\bin\x86\Debug\Datos.dll
+D:\MCOP_\MCOP\bin\x86\Debug\Negocio.pdb
+D:\MCOP_\MCOP\bin\x86\Debug\Datos.pdb
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.application
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.exe
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.pdb
+D:\MCOP_\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\MCOP_\MCOP\bin\x86\Debug\MCOP.exe
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.application
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.pdb
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\Negocio.dll
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\Datos.dll
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\Negocio.pdb
+D:\MCOP_Pruebas\MCOP\bin\x86\Debug\Datos.pdb
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.application
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.exe
+D:\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.pdb
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.exe
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.pdb
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.application
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.pdb
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\Negocio.dll
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\Negocio.pdb
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\DESARROLLO\MCOP_Pruebas\MCOP\obj\x86\Debug\MCOP.application
+D:\DESARROLLO\MCOP_Pruebas\MCOP\bin\x86\Debug\MCOP.exe
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.exe
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.pdb
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.application
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.pdb
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Negocio.dll
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Negocio.pdb
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.application
+D:\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.application
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Negocio.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Datos.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Negocio.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Datos.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.application
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.exe
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe
+D:\MCOP\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\MCOP\MCOP\bin\x86\Debug\MCOP.application
+D:\MCOP\MCOP\bin\x86\Debug\MCOP.pdb
+D:\MCOP\MCOP\bin\x86\Debug\Negocio.dll
+D:\MCOP\MCOP\bin\x86\Debug\Datos.dll
+D:\MCOP\MCOP\bin\x86\Debug\Negocio.pdb
+D:\MCOP\MCOP\bin\x86\Debug\Datos.pdb
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.application
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.exe
+D:\MCOP\MCOP\obj\x86\Debug\MCOP.pdb
+D:\MCOP\MCOP\bin\x86\Debug\MCOP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Frm_AsignacionComponentes.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmDetenciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmHabilitado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Frm_MMaquina.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Frm_MOperarios.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmNCRs.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmObservaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepOPPesoFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReportePesoOP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\obj\x86\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\MCOP\bin\x86\Debug\MCOP.exe
+\\10.0.0.8\gsistemas\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.config
+\\10.0.0.8\gsistemas\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe
+\\10.0.0.8\gsistemas\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_AsignacionComponentes.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscar.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDetenciones.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmHabilitado.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeCierre.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMPreciosUnitarios.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MFormato_Perfil.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MMaquina.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MOperarios.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNCRs.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmObservaciones.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOperario.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepOPPesoFiltro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReportePesoOP.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Login.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRutas.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSincronizarOT.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT_detalle.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TEST.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmValorizacion.resources
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe.manifest
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.application
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.ResolveComReference.cache
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.application
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_AsignacionComponentes.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Contenedor.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDetenciones.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmHabilitado.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeCierre.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeComponentesAvance.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMCodigoCosto.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMPreciosUnitarios.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenuFlotante.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MFormato_Perfil.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MMaquina.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMNumerados.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MOperarios.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMUsuario.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNCRs.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmObservaciones.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOpciones.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOperario.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Prototipos.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepOPPesoFiltro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReportePesoOP.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRutas.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSincronizarOT.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSolicitudServicio.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT_detalle.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTareo.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmValorizacion.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.application
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReasignacionContratistas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_AsignacionComponentes.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Contenedor.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDetenciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmHabilitado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeCierre.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeComponentesAvance.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMCodigoCosto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMPreciosUnitarios.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MFormato_Perfil.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MMaquina.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMNumerados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MOperarios.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNCRs.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmObservaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOperario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Prototipos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReasignacionContratistas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepOPPesoFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReportePesoOP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRutas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSincronizarOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSolicitudServicio.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT_detalle.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTareo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmValorizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_AsignacionComponentes.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Contenedor.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDetenciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmHabilitado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeCierre.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeComponentesAvance.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMCodigoCosto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMPreciosUnitarios.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MFormato_Perfil.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MMaquina.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMNumerados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MOperarios.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNCRs.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmObservaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOperario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Prototipos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReasignacionContratistas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepOPPesoFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReportePesoOP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRutas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSincronizarOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSolicitudServicio.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT_detalle.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTareo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmValorizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\bin\x86\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEliminarOT.resources
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\office.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\bin\x86\Debug\office.xml
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEliminarOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmLinkComponentes.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformePlanHabilitado.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.config
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.ResolveComReference.cache
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.application
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.exe
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\office.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\office.xml
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\bin\x86\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAgrupar.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformePlanHabilitado.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAnulacionMarcas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionOT.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_AsignacionComponentes.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaDespacho.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmBuscarGuiaRemision.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Contenedor.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDetenciones.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEliminarOT.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmHabilitado.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeCierre.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeComponentesAvance.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmLinkComponentes.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMCodigoCosto.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMPreciosUnitarios.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenuFlotante.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MFormato_Perfil.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MMaquina.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMNumerados.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Frm_MOperarios.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMUsuario.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNCRs.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmObservaciones.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOpciones.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOperario.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Prototipos.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReasignacionContratistas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepOPPesoFiltro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOTFiltro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReportePesoOP.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmDespacho.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEspere.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaRemision.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImportarProyectado.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeAvance.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementos.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeResumen.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInsertarMarcas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMConductor.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMTransportista.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmProyectado.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteAvanceEtapas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmInformeElementosEtapas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaRemision.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteRevisiones.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepRevisionesFiltro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevertirReporteMarcas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRevisonElemento.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGeneracionOPmasiva.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGranallado.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmGuiaDespacho.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestroMarcas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMContratista.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmPintura.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmEstadoMarcasFiltro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmAsignacionPend.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoMarcas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteEstadoOT.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteGuiaDespacho.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabPendFiltro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmFabricacion.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.MotivoNC.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmImpMaestro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Login.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMaestro.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmMenu.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmNoConformidad.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmOrdenProduccion.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.Properties.Resources.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.QA_QC.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRepFabPend.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteNC.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmReporteOP.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmRutas.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSincronizarOT.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmSolicitudServicio.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmStatusOT_detalle.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTareo.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TEST.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmTrazabilidadE.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.FrmValorizacion.resources
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.csproj.GenerateResource.Cache
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.TrustInfo.xml
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\MCOP\obj\x86\Debug\MCOP.application

@@ -1,0 +1,4 @@
+D:\MCOP_\MCOP\Datos\bin\Release\Datos.dll
+D:\MCOP_\MCOP\Datos\bin\Release\Datos.pdb
+D:\MCOP_\MCOP\Datos\obj\Release\Datos.dll
+D:\MCOP_\MCOP\Datos\obj\Release\Datos.pdb

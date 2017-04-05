@@ -1,0 +1,1092 @@
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\MCOP.exe.config
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\MCOP.application
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\MCOP.exe
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\MCOP.pdb
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Datos.dll
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Negocio.dll
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\office.dll
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\office.xml
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.FrmInformeComponentesAvance.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.FrmMCodigoCosto.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.FrmMenuFlotante.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.FrmMUsuario.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.Login.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.FrmMenu.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.Properties.Resources.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.TEST.resources
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.TrustInfo.xml
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.exe.manifest
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.application
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.exe
+D:\MCOP - SQLSERVER\Presentacion\obj\Debug\MCOP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\office.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\office.xml
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\DESARROLLO\MISAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP1\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+\\Desarrollosrv\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+\\Desarrollosrv\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+\\Desarrollosrv\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+\\Desarrollosrv\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+\\Desarrollosrv\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe
+\\Desarrollosrv\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.pdb
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.pdb
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.application
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.pdb
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\office.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.pdb
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.pdb
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\office.xml
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+\\10.0.0.31\apl\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.application
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.application
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.pdb
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.dll
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.dll
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.pdb
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.pdb
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.application
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.test2.resources
+\\desarrollosrv\APL\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Form1.resources
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\office.dll
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\office.xml
+D:\MISAP - SAP\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmServidores.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - produccion\MISAP\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmServidores.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - TECNICA\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmServidores.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP - PRUEBA - PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleadosCese.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmFichaEquipo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareoAsignacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvCargoDoc.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCargoDoc.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmProgAceros.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegAceros.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegAcerosDet.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmActivos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareosCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo_Mod.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.application
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.exe
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\MISAP.pdb
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Datos.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Negocio.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\office.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Datos.pdb
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Negocio.pdb
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\office.xml
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleadosCese.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmFichaEquipo.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareoAsignacion.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareoControl.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo_Importar.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo_Mod.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvCargoDoc.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCargoDoc.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmProgAceros.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegAceros.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegAcerosDet.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmListado.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmActivos.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmTareosCostos.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.application
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.exe
+\\10.0.0.31\apl\MISAP\MISAP - SAP -  PRODUCCION\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\MISAP\Presentacion\bin\Debug\Resources\btn.jpg
+D:\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+D:\MISAP\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\MISAP\Presentacion\bin\Debug\MISAP.application
+D:\MISAP\Presentacion\bin\Debug\MISAP.exe
+D:\MISAP\Presentacion\bin\Debug\MISAP.pdb
+D:\MISAP\Presentacion\bin\Debug\Datos.dll
+D:\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MISAP\Presentacion\bin\Debug\Negocio.dll
+D:\MISAP\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\MISAP\Presentacion\bin\Debug\office.dll
+D:\MISAP\Presentacion\bin\Debug\Datos.pdb
+D:\MISAP\Presentacion\bin\Debug\Negocio.pdb
+D:\MISAP\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MISAP\Presentacion\bin\Debug\office.xml
+D:\MISAP\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\MISAP\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleadosCese.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmFichaEquipo.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmTareoAsignacion.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmTareoControl.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo_Importar.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmTareo_Mod.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.CrvCargoDoc.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmCargoDoc.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmProgAceros.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegAceros.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegAcerosDet.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmPopup.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmActivos.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmTareosCostos.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.Login.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\MISAP\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\MISAP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\MISAP\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\MISAP\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\MISAP\Presentacion\obj\Debug\MISAP.application
+D:\MISAP\Presentacion\obj\Debug\MISAP.exe
+D:\MISAP\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Resources\btn.jpg
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.exe.config
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\office.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCriteriosSeleccion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEmpleadosCese.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmFichaEquipo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareoAsignacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareoControl.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Importar.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_IngresoMasivo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Mod.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_ModMasiva.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Reporte.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Seguimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_SeguimientoDet.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvCargoDoc.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCargoDoc.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmProgAceros.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegAceros.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegAcerosDet.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmActivos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareosCostos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Login.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.application
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.exe
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Configuracion.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegContrato.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmContratos.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeAsistencia.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegCambiosApl.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvReporte.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeInventarioIPs.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Transaccional.resources
+D:\eterrones\IMECON 2014\DESARROLLO\MISAP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmDefiniciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmlstPed.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmDefiniciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmContratos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeInventarioIPs.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegCambiosApl.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCriteriosSeleccion.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEmpleadosCese.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmFichaEquipo.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeAsistencia.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegContrato.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareoAsignacion.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareoControl.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Configuracion.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Importar.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_IngresoMasivo.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Mod.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_ModMasiva.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Reporte.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_Seguimiento.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareo_SeguimientoDet.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvReporte.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmImpresionTransmital.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_AsignarFechaConta.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_CajaChica_RegistroGastos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_GastoMantenimiento.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_GestionCajaChica.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_GestionProyectos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_GestionRendiciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_GestionUsuarios.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_Motivo_Anulacion.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_Opciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_SeleccionProyecto.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmVS_SolicitudDinero.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Lanzador.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvCargoDoc.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvNotaIngreso.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvPCA.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvPedido.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCargoDoc.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmProgAceros.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmAnexo.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmAvanceProyecto.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCargarAsistencia.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCheques.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmConfiguracion.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmCostos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmDocumentos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEmpleados.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEquivalencias.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEspera.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmEstadoOT.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmExtractoBancario.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmFiltro.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmAsientosContables.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmClave.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmIMERP.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegAceros.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegAcerosDet.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmInformeSegReq.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmListado.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmLogModificaciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMaestroArticulo.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmOpciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmParametrizacion.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPCA.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPedidos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPlantillaPosiciones.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPlantillas.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmPortalSIG.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmProvision.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmReportesLegales.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmReporteStockTotal.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmSeguimientoSaldos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmActivos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmSolicitudAlta.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmTareosCostos.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMenuFlotante.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMUsuario.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Login.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.FrmMenu.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Properties.Resources.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.CrvRequerimiento.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.TEST.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.Transaccional.resources
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Resources\btn.jpg
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.exe.config
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.exe.manifest
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.application
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.exe
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\MISAP.pdb
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Datos.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Negocio.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Interop.SAPbobsCOM.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\office.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Datos.pdb
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Negocio.pdb
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\office.xml
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\bin\Debug\Interop.SAPbouiCOM.dll
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.TrustInfo.xml
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.exe.manifest
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.application
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.exe
+D:\MISAP - SAP -  PRODUCCION -RABP\MISAP - SAP -  PRODUCCION\Presentacion\obj\Debug\MISAP.pdb
+C:\Users\rbarrios\Documents\GitHub\MISAP\Presentacion\bin\Debug\MISAP.exe.config
+C:\Users\rbarrios\Documents\GitHub\MISAP\Presentacion\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rbarrios\Documents\GitHub\MISAP\Presentacion\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\rbarrios\Documents\GitHub\MISAP\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\rbarrios\Documents\GitHub\MISAP\Presentacion\obj\Debug\MISAP.exe
+C:\Users\rbarrios\Documents\GitHub\MISAP\Presentacion\obj\Debug\MISAP.pdb

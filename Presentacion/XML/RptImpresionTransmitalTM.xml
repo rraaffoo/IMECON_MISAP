@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iddoc" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="num_ord" type="xs:string" minOccurs="0" />
+              <xs:element name="num_ordn" type="xs:string" minOccurs="0" />
+              <xs:element name="nrodoc" type="xs:string" minOccurs="0" />
+              <xs:element name="idrev" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="idtra" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="descrip" type="xs:string" minOccurs="0" />
+              <xs:element name="revi" type="xs:string" minOccurs="0" />
+              <xs:element name="proentrega" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="cant" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="cantdoc" type="xs:int" minOccurs="0" />
+              <xs:element name="pd" type="xs:string" minOccurs="0" />
+              <xs:element name="totalref" type="xs:double" minOccurs="0" />
+              <xs:element name="tiparch" type="xs:string" minOccurs="0" />
+              <xs:element name="area" type="xs:string" minOccurs="0" />
+              <xs:element name="tipdoc" type="xs:string" minOccurs="0" />
+              <xs:element name="otrfil" type="xs:string" minOccurs="0" />
+              <xs:element name="fecres" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="estadomov" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="estadodoc" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="obs" type="xs:string" minOccurs="0" />
+              <xs:element name="ruta" type="xs:string" minOccurs="0" />
+              <xs:element name="estado" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="area2" type="xs:string" minOccurs="0" />
+              <xs:element name="tipdoc2" type="xs:string" minOccurs="0" />
+              <xs:element name="otrfil2" type="xs:string" minOccurs="0" />
+              <xs:element name="tipo2" type="xs:string" minOccurs="0" />
+              <xs:element name="ruc_cli" type="xs:string" minOccurs="0" />
+              <xs:element name="des_cli" type="xs:string" minOccurs="0" />
+              <xs:element name="img_cli" type="xs:string" minOccurs="0" />
+              <xs:element name="tiparch2" type="xs:string" minOccurs="0" />
+              <xs:element name="codtransmital" type="xs:string" minOccurs="0" />
+              <xs:element name="tipo" type="xs:string" minOccurs="0" />
+              <xs:element name="num_ord3" type="xs:string" minOccurs="0" />
+              <xs:element name="version" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="codreg" type="xs:string" minOccurs="0" />
+              <xs:element name="autor" type="xs:string" minOccurs="0" />
+              <xs:element name="autor_des" type="xs:string" minOccurs="0" />
+              <xs:element name="responsab" type="xs:string" minOccurs="0" />
+              <xs:element name="responsab_des" type="xs:string" minOccurs="0" />
+              <xs:element name="responsab_ema" type="xs:string" minOccurs="0" />
+              <xs:element name="revfrom" type="xs:string" minOccurs="0" />
+              <xs:element name="po" type="xs:string" minOccurs="0" />
+              <xs:element name="notes" type="xs:string" minOccurs="0" />
+              <xs:element name="num_ord2" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="fechataller" type="xs:string" minOccurs="0" />
+              <xs:element name="ruc_cli1" type="xs:string" minOccurs="0" />
+              <xs:element name="swtenv" type="xs:int" minOccurs="0" />
+              <xs:element name="swtenvtall" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

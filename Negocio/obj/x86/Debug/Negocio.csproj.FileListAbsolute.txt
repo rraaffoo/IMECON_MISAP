@@ -1,0 +1,96 @@
+D:\MCOP_\Negocio\bin\x86\Debug\Negocio.dll
+D:\MCOP_\Negocio\bin\x86\Debug\Negocio.pdb
+D:\MCOP_\Negocio\bin\x86\Debug\Datos.dll
+D:\MCOP_\Negocio\bin\x86\Debug\Datos.pdb
+D:\MCOP_\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP_\Negocio\obj\x86\Debug\Negocio.dll
+D:\MCOP_\Negocio\obj\x86\Debug\Negocio.pdb
+D:\MCOP_Pruebas\Negocio\bin\x86\Debug\Negocio.dll
+D:\MCOP_Pruebas\Negocio\bin\x86\Debug\Negocio.pdb
+D:\MCOP_Pruebas\Negocio\bin\x86\Debug\Datos.dll
+D:\MCOP_Pruebas\Negocio\bin\x86\Debug\Datos.pdb
+D:\MCOP_Pruebas\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP_Pruebas\Negocio\obj\x86\Debug\Negocio.dll
+D:\MCOP_Pruebas\Negocio\obj\x86\Debug\Negocio.pdb
+D:\DESARROLLO\MCOP_Pruebas\Negocio\bin\x86\Debug\Negocio.dll
+D:\DESARROLLO\MCOP_Pruebas\Negocio\bin\x86\Debug\Negocio.pdb
+D:\DESARROLLO\MCOP_Pruebas\Negocio\bin\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP_Pruebas\Negocio\bin\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP_Pruebas\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MCOP_Pruebas\Negocio\obj\x86\Debug\Negocio.dll
+D:\DESARROLLO\MCOP_Pruebas\Negocio\obj\x86\Debug\Negocio.pdb
+D:\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Negocio.dll
+D:\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Negocio.pdb
+D:\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Datos.dll
+D:\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Datos.pdb
+D:\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.dll
+D:\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Negocio.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Negocio.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Datos.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Datos.pdb
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.dll
+D:\MCOP_PORTABLE\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.pdb
+D:\MCOP\Negocio\bin\x86\Debug\Negocio.dll
+D:\MCOP\Negocio\bin\x86\Debug\Negocio.pdb
+D:\MCOP\Negocio\bin\x86\Debug\Datos.dll
+D:\MCOP\Negocio\bin\x86\Debug\Datos.pdb
+D:\MCOP\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP\Negocio\obj\x86\Debug\Negocio.dll
+D:\MCOP\Negocio\obj\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP\Negocio\obj\x86\Debug\Negocio.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.pdb
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.dll
+S:\MCOP\CODIGO FUENTE\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.pdb
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\office.dll
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\eterrones\IMECON 2014\DESARROLLO\MCOP - SQLSERVER\Negocio\bin\x86\Debug\office.xml
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\office.dll
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MCOP - SQLSERVER\MCOP - SQLSERVER\Negocio\bin\x86\Debug\office.xml
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Negocio.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\office.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Datos.pdb
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\bin\x86\Debug\office.xml
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.dll
+D:\MCOP - SQLSERVER - 031215\MCOP - SQLSERVER\Negocio\obj\x86\Debug\Negocio.pdb

@@ -1,0 +1,2 @@
+CRforVS_13_0_5 -- CRYstal report para visual studio
+3 - CRRuntime_32bit_13_0_1- runtime cr
